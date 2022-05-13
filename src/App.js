@@ -7,7 +7,7 @@ import Navbar from './Pages/Shared/Navbar';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App px-12">
       <header>
         <Navbar />
         <Routes>
